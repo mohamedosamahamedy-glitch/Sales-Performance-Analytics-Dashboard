@@ -6,8 +6,7 @@ An interactive and dynamic Sales Dashboard designed to track business revenue, p
 ---
 
 ### 🖥️ Dashboard Preview
-![Sales Dashboard](WhatsApp Image 2026-06-20 at 3.00.10 PM.jpeg)
-
+![Sales Dashboard](WhatsApp%20Image%202026-06-20%20at%203.00.10%20PM.jpeg)
 ---
 
 ### 💡 Key Features & Analytical Insights
